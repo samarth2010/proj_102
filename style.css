@@ -1,0 +1,25 @@
+body
+{
+color: red;
+background-color: blue;
+}
+
+.heading
+{
+width: 80%;
+font-size: 25px;
+font-family:'Franklin Gothic Medium' ;
+}
+
+#camera
+{
+    width: 4000px;
+    height: 250px;
+    border: 2px dotted rgb(255, 51, 0);
+}
+
+.name_of_the_object, #result_obg_acu, #result_obg_name
+{
+    color: rgb(255, 51, 0);
+    font-size :20px; 
+}
